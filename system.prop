@@ -1,0 +1,10 @@
+ro.mediatek.platform=MT6768
+ro.vendor.mediatek.platform=MT6768
+ro.hardware=mt6768
+ro.boot.dynamic_partitions=true
+ro.mtk_tee_gp_support=1
+ro.mtk_microtrust_tee_support=0
+fbe.metadata.wrappedkey=true
+ro.hardware.kmsetkey=beanpod
+ro.hardware.gatekeeper=beanpod
+ro.postinstall.fstab.prefix=/system
